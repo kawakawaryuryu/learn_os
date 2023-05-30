@@ -2,8 +2,8 @@
 
 int main(void) {
 
-    int *number;
-    number = NULL;
+    int *number = NULL;
+    //number = NULL;
 
     printf("number = %p\n", number);
     //printf("*number = %d\n", *number);
